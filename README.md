@@ -1,2 +1,3 @@
-#FEDF-PRACTICE
+# FEDF_PRACTICALS
+
 A student-led repository showcasing practical assignments and mini-projects from the Front-End Development and Frameworks (FEDF) course. Built to reinforce core concepts through hands-on coding and experimentation.
